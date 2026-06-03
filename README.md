@@ -7,6 +7,8 @@
 噴霧の異常検知そのものについては、別記事・別リポジトリを参照。これはその発展版です。
 https://note.com/major_bobcat4320/n/n393754f77462
 
+- 前作：明るさの時間変化による検知 → https://github.com/takeyuyu/spray-anomaly-poc
+
 ## このコードが示すこと
 
 カメラ映像が暗くなる原因は2つある。
